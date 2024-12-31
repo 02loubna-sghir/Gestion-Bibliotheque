@@ -1,0 +1,28 @@
+id;titre;auteur;genre;anneePublication;isbn;editeur;langue;disponibilite
+1;Le Petit Prince;Antoine de Saint-Exupéry;Fiction;1943;9781234567890;Gallimard;Français;6
+2;1984;George Orwell;Science-fiction;1949;9789876543210;Secker & Warburg;Anglais;2
+3;Moby Dick;Herman Melville;Aventure;1851;9781593080000;Harper & Brothers;Anglais;2
+4;Hamlet;William Shakespeare;Théâtre;1603;9780451526922;Simon & Schuster;Anglais;4
+5;Les Misérables;Victor Hugo;Classique;1862;9780140444308;Le Livre de Poche;Français;5
+6;Le Seigneur des Anneaux;J.R.R. Tolkien;Fantasy;1954;9780261102385;Allen & Unwin;Anglais;8
+7;Pride and Prejudice;Jane Austen;Romance;1813;9781503290563;CreateSpace;Anglais;9
+8;L'Étranger;Albert Camus;Philosophie;1942;9782070308024;Gallimard;Français;6
+9;Le Comte de Monte-Cristo;Alexandre Dumas;Aventure;1844;9782070413054;Le Livre de Poche;Français;9
+10;Dracula;Bram Stoker;Horreur;1897;9780141439846;Penguin Classics;Anglais;1
+11;Don Quichotte;Miguel de Cervantes;Classique;1605;9788491050560;Ediciones Cátedra;Espagnol;12
+12;War and Peace;Leo Tolstoy;Historique;1869;9781853260629;Wordsworth Editions;Anglais;11
+13;The Great Gatsby;F. Scott Fitzgerald;Romance;1925;9780743273565;Scribner;Anglais;4
+14;Anna Karenina;Leo Tolstoy;Classique;1877;9781853262715;Wordsworth Editions;Anglais;6
+15;Brave New World;Aldous Huxley;Science-fiction;1932;9780060850524;Harper Perennial Modern Classics;Anglais;3
+16;The Catcher in the Rye;J.D. Salinger;Classique;1951;9780316769488;Little, Brown and Company;Anglais;8
+17;To Kill a Mockingbird;Harper Lee;Drama;1960;9780060935467;Harper Perennial Modern Classics;Anglais;6
+18;Frankenstein;Mary Shelley;Horreur;1818;9780451532245;Penguin Classics;Anglais;5
+19;The Odyssey;Homer;Classique;-800;9780140268867;Penguin Classics;Anglais;13
+20;The Picture of Dorian Gray;Oscar Wilde;Philosophie;1890;9780141439570;Penguin Classics;Anglais;9
+21;Les Fleurs du mal;Charles Baudelaire;Poésie;1857;9782070310898;Gallimard;Français;6
+22;La Peste;Albert Camus;Roman;1947;9782070311154;Gallimard;Français;4
+23;The Lord of the Flies;William Golding;Classique;1954;9780399501487;Penguin Books;Anglais;3
+24;Les Trois Mousquetaires;Alexandre Dumas;Aventure;1844;9782070409507;Le Livre de Poche;Français;10
+25;A Tale of Two Cities;Charles Dickens;Historique;1859;9781853262616;Wordsworth Editions;Anglais;2
+26;The Brothers Karamazov;Fyodor Dostoevsky;Philosophique;1880;9780374528379;Farrar, Straus and Giroux;Anglais;4
+27;The Divine Comedy;Dante Alighieri;Classique;1320;9780199535641;Oxford University Press;Italien;7
