@@ -1,7 +1,9 @@
 package controllers;
 import java.time.LocalDate;
 import exceptions.*;
-import models.*;
+import model.*;
+import models.Utilisateur;
+import models.UtilisateurModel;
 import views.*;
 
 import java.util.Date;

@@ -1,4 +1,4 @@
-package models;
+package model;
 
 import models.Utilisateur;
 import models.UtilisateurModel;
